@@ -1534,12 +1534,7 @@
 10.0.1.67,swf-web07-prd,telnet,,root,10.0.1.84,swf-gw03-prd,,23,6,,,,potentially_blocked
 10.0.1.67,swf-web07-prd,telnet,,root,10.0.1.69,swf-gw04-prd,,23,6,,,,potentially_blocked
 10.0.1.73,swf-web08-prd,telnet,,root,10.0.1.84,swf-gw03-prd,,23,6,,,,potentially_blocked
-172.16.3.97,Win-endpoint-1,,,,172.16.3.99,Win-endpoint-3,,5985,6,,,,potentially_blocked
-172.16.3.97,Win-endpoint-1,,,,172.16.3.100,Win-endpoint-4,,5985,6,,,,potentially_blocked
-172.16.3.98,Win-endpoint-2,,,,172.16.3.103,Win-endpoint-7,,5985,6,,,,potentially_blocked
-172.16.3.98,Win-endpoint-2,,,,172.16.3.104,Win-endpoint-8,,5985,6,,,,potentially_blocked
-172.16.3.97,Win-endpoint-1,,,,172.16.3.105,Win-endpoint-9,,5985,6,,,,potentially_blocked
-172.16.3.105,Win-endpoint-2,,,,172.16.3.106,Win-endpoint-10,,5985,6,,,,potentially_blocked
+172.16.3.105,Win-endpoint-2,,,,172.16.3.106,Win-endpoint-10,,3389,6,,,,potentially_blocked
 10.0.2.136,pos-proc03-stg,,,root,10.0.2.132,pos-db04-stg,,20,6,,,,potentially_blocked
 10.0.2.136,pos-proc03-stg,,,,10.0.2.132,pos-db04-stg,,20,6,,,root,potentially_blocked
 10.0.2.136,pos-proc03-stg,,,root,10.0.2.8,pos-db03-stg,,20,6,,,,potentially_blocked
